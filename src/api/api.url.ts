@@ -1,2 +1,2 @@
-const url:string = process.env.API_URL || 'http://localhost:5000'
+const url:string = 'https://todo-fullstack-portfolio.herokuapp.com'
 export default url
